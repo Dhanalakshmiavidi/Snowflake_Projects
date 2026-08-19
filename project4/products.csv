@@ -1,0 +1,6 @@
+product_id,product_name,category,brand,price
+101,Laptop,Electronics,Dell,60000
+102,Mobile,Electronics,Samsung,25000
+103,Keyboard,Accessories,Logitech,1500
+104,Mouse,Accessories,HP,800
+105,Monitor,Electronics,LG,12000

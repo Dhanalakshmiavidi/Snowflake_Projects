@@ -1,0 +1,6 @@
+sale_id,customer_id,product_id,branch_id,date_id,quantity,total_amount
+1,1,101,1,1,1,60000
+2,2,102,2,2,2,50000
+3,3,103,2,3,3,4500
+4,4,104,1,4,5,4000
+5,5,105,3,5,2,24000
